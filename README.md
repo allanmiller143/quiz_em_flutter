@@ -27,3 +27,6 @@ Este é um projeto de código aberto, e contribuições são bem-vindas! Se voc�
 
 6. Após revisão, suas alterações podem ser mescladas ao projeto principal.
 
+## layout
+<img src = ''>
+
