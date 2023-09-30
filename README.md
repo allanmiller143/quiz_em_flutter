@@ -4,7 +4,9 @@
 Este é um aplicativo de quiz desenvolvido em Flutter que testa seu conhecimento em uma variedade de tópicos. O objetivo é responder corretamente a todas as 10 perguntas para se tornar um mestre do quiz!
 
 <div align="center">
-  <img src="tela.png" alt="Imagem do aplicativo de quiz" width="300">
+  <img src="/img/telaPlay.png" alt="Imagem do aplicativo de quiz" width="280">
+  <img src="/img/telaPerguntas.png" alt="Imagem do aplicativo de quiz" width="275">
+  <img src="/img/telaResultado.png" alt="Imagem do aplicativo de quiz" width="280">
 </div>
 
 ## Quiz App em Flutter
