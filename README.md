@@ -3,13 +3,26 @@
 
 Este é um aplicativo de quiz desenvolvido em Flutter que testa seu conhecimento em uma variedade de tópicos. O objetivo é responder corretamente a todas as 10 perguntas para se tornar um mestre do quiz!
 
-## Funcionalidades
+<div align="center">
+  <img src="tela.png" alt="Imagem do aplicativo de quiz" width="300">
+</div>
+
+## Quiz App em Flutter
+
+Este é um aplicativo de quiz desenvolvido em Flutter que testa seu conhecimento em uma variedade de tópicos. O objetivo é responder corretamente a todas as 10 perguntas para se tornar um mestre do quiz!
+
+### Funcionalidades
 
 - **Perguntas:** O aplicativo apresenta 10 perguntas em tópicos variados;
 
 - **Alternativas:** Cada pergunta tem 4 alternativas de resposta, mas apenas uma delas está correta. Escolha sabiamente!
 
 - **Contagem de Pontos:** Você acumula pontos à medida que responde corretamente às perguntas. O objetivo é acertar todas as 10 perguntas e alcançar a pontuação máxima!
+
+
+
+
+
 
 ## Contribuições
 
@@ -27,6 +40,5 @@ Este é um projeto de código aberto, e contribuições são bem-vindas! Se voc�
 
 6. Após revisão, suas alterações podem ser mescladas ao projeto principal.
 
-## layout
-<img src = ''>
+
 
